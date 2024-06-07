@@ -1,0 +1,1 @@
+Welcome to our image guessing game! Name what's in the image and even add your own pictures. Just upload them to 'npa\bin\Debug\net6.0-windows\images' as .png files. The correct answer is the image's filename. Let the guessing begin!
